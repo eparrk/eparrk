@@ -7,4 +7,4 @@ I am a student at the **University of Ottawa** studying **Economics** with a pas
 - 🤝🏻 Open to: Collaborating on exciting **projects** and learning opportunities
 - 📩 Reach me: [epark044@uottawa.ca](mailto:epark044@uottawa.ca)
 - 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/eunicepark28/)
-- 👉 Check Out: [Portfolio](https://eparrk.github.io/portfolio/)
+- 👉 Check Out: [Portfolio](https://github.com/eparrk/Portfolio.git)
