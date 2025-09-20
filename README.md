@@ -6,7 +6,7 @@ Currently contributing to **Statistics Canada** as a student **economic analyst*
 
 Passionate about technology, finance, and creating meaningful digital experiences. 
 
-- 💡 Projects: Part of a dynamic team of 5 uOttawa alumni creating a bilingual student engagement **startup application**.
-- 📩 Reach me: [epark044@uottawa.ca](mailto:epark044@uottawa.ca) or [euniceparrk@gmail.com](mailto:euniceparrk@gmail.com)
-- 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/eunicepark28/)
-- 👉 Portfolio: Under Construction!
+💡 Projects: Part of a dynamic team of 5 uOttawa alumni creating a **bilingual student engagement startup application**.<br>
+📩 Reach me: [epark044@uottawa.ca](mailto:epark044@uottawa.ca) or [euniceparrk@gmail.com](mailto:euniceparrk@gmail.com)<br>
+🔗 Connect: [LinkedIn](https://www.linkedin.com/in/eunicepark28/)<br>
+👉 Portfolio: Under Construction!
