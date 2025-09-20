@@ -9,4 +9,4 @@ Passionate about technology, finance, and creating meaningful digital experience
 - 💡 Projects: Part of a dynamic team of 5 uOttawa alumni creating a bilingual student engagement **startup application**.
 - 📩 Reach me: [epark044@uottawa.ca](mailto:epark044@uottawa.ca) or [euniceparrk@gmail.com](mailto:euniceparrk@gmail.com)
 - 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/eunicepark28/)
-- 👉 Check Out: [Portfolio](https://github.com/eparrk/Portfolio.git)
+- 👉 Portfolio: Under Construction!
