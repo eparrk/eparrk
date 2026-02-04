@@ -1,7 +1,7 @@
-# Hi, my name is Eunice Park 👋
+# Hi 👋
 
 ## 👩🏻‍💻 About Me
-I am in my final year as an undergraduate student at the **University of Ottawa** studying **Economics** in the French stream.<br>
+I am in my final year of undergraduate studies at the **University of Ottawa**, majoring in **Economics** in the French stream.<br>
 Currently contributing to **Statistics Canada** as a student **analyst** in the **International Accounts and Trade Division**.
 
 Passionate about technology, finance, and creating meaningful digital experiences. 
