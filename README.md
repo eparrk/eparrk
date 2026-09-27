@@ -1,9 +1,7 @@
 # Hi 👋
 
 ## 👩🏻‍💻 About Me
-Recent graduate in **Sciences Économiques** at the **University of Ottawa**.
-
-Passionate about technology, finance, and creating meaningful digital experiences. 
+Recent **Economics** graduate from the **University of Ottawa**.
 
 📩 Email: [euniceparrk@gmail.com](mailto:euniceparrk@gmail.com)<br>
 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/eunicepark28/)<br>
